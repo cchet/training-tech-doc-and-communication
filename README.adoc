@@ -1,2 +1,3 @@
-# training-tech-doc-and-communication
+= Training technical documentation and communication
+
 Resources of the training Technical documentation and communication
